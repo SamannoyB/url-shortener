@@ -11,7 +11,7 @@ In the console, run:
 ``` node script.js ```
 
 Open up your browser and type in:
-``` http://localhost:4000 ```
+``` http://localhost:8080 ```
 
 
 Enjoy the shortener!!
