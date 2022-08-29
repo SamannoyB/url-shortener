@@ -2,9 +2,9 @@
   "name": "new-folder",
   "version": "1.0.0",
   "description": "",
-  "main": "sample.js",
+  "main": "script.js",
   "scripts": {
-    "start": "nodemon sample.js"
+    "start": "nodemon script.js"
   },
   "keywords": [],
   "author": "",
